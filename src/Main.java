@@ -8,5 +8,6 @@ public class Main {
         klasa2.show();
         klasa1.show2();
         klasa2.show2();
+        System.out.println("zmiana Kuby");
     }
 }
