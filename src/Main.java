@@ -6,5 +6,7 @@ public class Main {
         Klasa2 klasa2= new Klasa2();
         klasa1.show();
         klasa2.show();
+        klasa1.show2();
+        klasa2.show2();
     }
 }
